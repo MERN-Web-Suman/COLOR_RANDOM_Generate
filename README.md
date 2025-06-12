@@ -4,10 +4,4 @@ This project demonstrates how to create a random color generator using HTML, CSS
 
   # Technologies Used:
   
-     <div>
-    <h3> HTML (HyperText Markup Language)</h3>
-     
-    <h3>✨CSS: Styles the application for a better user interface and experience..</h3>
-    <h4>✨JavaScript: Adds interactivity by handling user actions like adding tasks, marking them as completed, and clearing input.</h4>
-    
-  </div>
+
